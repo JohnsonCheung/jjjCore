@@ -17,5 +17,4 @@ Cur_PjPth = Pj_Pth(Cur_Pj)
 End Property
 
 Sub Tst()
-
 End Sub
